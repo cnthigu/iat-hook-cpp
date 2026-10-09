@@ -1,6 +1,6 @@
 # Windows IAT Hooking
 
-Intercept Win32 API calls by patching the Import Address Table
+Intercept Win32 API calls by patching the Import Address Table.
 
 ## How does it work?
 
